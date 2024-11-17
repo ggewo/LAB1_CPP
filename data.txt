@@ -1,0 +1,11 @@
+Pipe Information:
+Name of the pipe: MainPipe
+Length of the pipe: 100.5
+Diameter of the pipe: 1.2
+In repair: No
+
+KS Information:
+Name of the KS: MainStation
+Number of workshops: 5
+Number of active workshops: 3
+Efficiency: 0.95
